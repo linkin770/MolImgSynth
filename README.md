@@ -5,7 +5,7 @@ Welcome to **MolImgSynth**, a simple yet useful generator capable of producing m
 ## Requirements
 - **Python 3.8.7**
 
-- Other dependencies only need to support Python 3.8.
+- Other dependencies only need to support Python 3.8.7
 
 - Unzip background images to backgrounds:
   `backgrounds.zip`
